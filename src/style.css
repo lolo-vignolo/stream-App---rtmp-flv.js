@@ -1,0 +1,13 @@
+.dark-mode {
+  background-color: hsl(230, 25%, 18%);
+  color: hsl(230, 25%, 80%) !important;
+  width: 100%;
+  min-height: 100vh !important;
+}
+
+.light-mode {
+  background-color: hsl(230, 25%, 98%);
+  color: hsl(230, 25%, 20%) !important;
+  width: 100%;
+  min-height: 100vh !important;
+}
